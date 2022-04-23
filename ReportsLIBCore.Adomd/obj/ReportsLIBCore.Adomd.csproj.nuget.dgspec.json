@@ -1,0 +1,70 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\Программист-1\\Desktop\\GitHub\\GoodWill-Reports\\ReportsLIBCore.Adomd\\ReportsLIBCore.Adomd.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\Программист-1\\Desktop\\GitHub\\GoodWill-Reports\\ReportsLIBCore.Adomd\\ReportsLIBCore.Adomd.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Программист-1\\Desktop\\GitHub\\GoodWill-Reports\\ReportsLIBCore.Adomd\\ReportsLIBCore.Adomd.csproj",
+        "projectName": "ReportsLIBCore.Adomd",
+        "projectPath": "C:\\Users\\Программист-1\\Desktop\\GitHub\\GoodWill-Reports\\ReportsLIBCore.Adomd\\ReportsLIBCore.Adomd.csproj",
+        "packagesPath": "C:\\Users\\Программист-1\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Программист-1\\Desktop\\GitHub\\GoodWill-Reports\\ReportsLIBCore.Adomd\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Программист-1\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "\\\\GW-155\\GoodWill nuget": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.0": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.0": {
+          "dependencies": {
+            "Microsoft.AnalysisServices.AdomdClient.NetCore.retail.amd64": {
+              "target": "Package",
+              "version": "[19.10.0-Preview, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.402\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

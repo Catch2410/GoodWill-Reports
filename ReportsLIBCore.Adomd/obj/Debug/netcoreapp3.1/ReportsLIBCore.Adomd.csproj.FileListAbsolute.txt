@@ -1,0 +1,5 @@
+C:\Users\Программист-1\Desktop\GitHub\GoodWill-Reports\ReportsLIBCore.Adomd\bin\Debug\netcoreapp3.1\ReportsLIBCore.Adomd.deps.json
+C:\Users\Программист-1\Desktop\GitHub\GoodWill-Reports\ReportsLIBCore.Adomd\bin\Debug\netcoreapp3.1\ReportsLIBCore.Adomd.dll
+C:\Users\Программист-1\Desktop\GitHub\GoodWill-Reports\ReportsLIBCore.Adomd\obj\Debug\netcoreapp3.1\ReportsLIBCore.Adomd.csprojAssemblyReference.cache
+C:\Users\Программист-1\Desktop\GitHub\GoodWill-Reports\ReportsLIBCore.Adomd\obj\Debug\netcoreapp3.1\ReportsLIBCore.Adomd.AssemblyInfoInputs.cache
+C:\Users\Программист-1\Desktop\GitHub\GoodWill-Reports\ReportsLIBCore.Adomd\obj\Debug\netcoreapp3.1\ReportsLIBCore.Adomd.AssemblyInfo.cs

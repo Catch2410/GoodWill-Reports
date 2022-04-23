@@ -1,0 +1,6 @@
+C:\Users\Программист-1\Desktop\GitHub\GoodWill-Reports\ReportsLIBCore\bin\Debug\netcoreapp3.1\GoodWill-Libraries.Queries.dll
+C:\Users\Программист-1\Desktop\GitHub\GoodWill-Reports\ReportsLIBCore\bin\Debug\netcoreapp3.1\ReportsLIBCore.Adomd.dll
+C:\Users\Программист-1\Desktop\GitHub\GoodWill-Reports\ReportsLIBCore\bin\Debug\netcoreapp3.1\GoodWill-Libraries.Queries.pdb
+C:\Users\Программист-1\Desktop\GitHub\GoodWill-Reports\ReportsLIBCore\obj\Debug\netcoreapp3.1\ReportsLIBCore.csprojAssemblyReference.cache
+C:\Users\Программист-1\Desktop\GitHub\GoodWill-Reports\ReportsLIBCore\obj\Debug\netcoreapp3.1\ReportsLIBCore.AssemblyInfoInputs.cache
+C:\Users\Программист-1\Desktop\GitHub\GoodWill-Reports\ReportsLIBCore\obj\Debug\netcoreapp3.1\ReportsLIBCore.AssemblyInfo.cs
